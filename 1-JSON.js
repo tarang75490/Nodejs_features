@@ -4,7 +4,6 @@ const fs = require('fs')
 //     name : 'Think and Grow Reach',
 //     author:'Tarang'
 // }
-
 // // console.log(book)
 
 // const bookJSON = JSON.stringify(book)
